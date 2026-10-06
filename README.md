@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 For your video, you must explain your menu logic, including the do-while loop and the 3 choices. Failure to do so will result in an incomplete assignment, which is a 0.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (13).webm](https://github.com/user-attachments/assets/0b797dbd-e9c5-450b-87a4-0e20f751c96c)
+
 
 
 ## What to build
